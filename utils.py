@@ -3,7 +3,7 @@ import os
 import sys
 
 
-github_link = "https://github.com/shubham-namdev/Prometheus-Stress-Tester"
+github_link = ""
 
 
 def talk(text):
